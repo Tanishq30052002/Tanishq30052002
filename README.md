@@ -12,8 +12,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30" />
   </a>
 
-  <a href="https://medium.com/@tanishqchaudhary101010" target="_blank">
+  <a href="https://medium.com/@izzaaaatanishq" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="30" height="30" style="filter: invert(0);" />
+  </a>
+
+  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="30" height="30" />
   </a>
   
   <img src="https://komarev.com/ghpvc/?username=Tanishq30052002&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
@@ -33,7 +37,7 @@ Hi there! I'm Tanishq Chaudhary, a passionate Robotics Software Engineer with ex
 I occasionally write about robotics, ROS development, and my engineering journey:
 - [Running GUI Applications in Docker Containers with NVIDIA GPU Support: A Guide Using ROS](https://izzaaaatanishq.medium.com/running-gui-applications-in-docker-containers-with-nvidia-gpu-support-a-guide-using-ros-46a04046c067)
 
-> 📚 More coming soon on my [Medium](https://medium.com/@tanishqchaudhary101010)
+> 📚 More coming soon on my [Medium](https://medium.com/@izzaaaatanishq)
 
 ---
 
