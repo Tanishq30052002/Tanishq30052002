@@ -16,7 +16,7 @@
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="30" height="30" style="filter: invert(0);" />
   </a>
 
-  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
+  <a href="https://www.instagram.com/izzaaaa_tanishq" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="30" height="30" />
   </a>
   
