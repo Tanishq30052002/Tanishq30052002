@@ -54,8 +54,13 @@ I occasionally write about robotics, ROS development, and my engineering journey
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tanishq30052002&theme=radical&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanishq30052002&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=Tanishq30052002&theme=radical&hide_border=true" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tanishq30052002&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq30052002&layout=compact&theme=github_dark&hide_border=true" />
 </div>
+
