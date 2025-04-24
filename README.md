@@ -55,7 +55,7 @@ I occasionally write about robotics, ROS development, and my engineering journey
 ---
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Tanishq30052002&theme=radical&hide_border=true" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Tanishq30052002&theme=radical&hide_border=true" />
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Tanishq30052002&show_icons=true&theme=tokyonight&hide_border=true" />
